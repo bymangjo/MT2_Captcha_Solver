@@ -1,3 +1,7 @@
+#### Login Information
+- Username: bymangjo
+- Password: bymangjo
+
 #### Working All Metin2 Captcha-Control Systems
 This program has been reversed. It is not my source code. Don't ask me for a fix. We cannot change the Turkish language. You can only use it for free. Our goal is to gain experience and think about how we can code such systems.
 
