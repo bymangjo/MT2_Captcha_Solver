@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Captcha_Solver", "Captcha_Solver\Captcha_Solver.vbproj", "{0ADD6E8F-8660-42BB-8B97-7067BD5DCA3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ADD6E8F-8660-42BB-8B97-7067BD5DCA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ADD6E8F-8660-42BB-8B97-7067BD5DCA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ADD6E8F-8660-42BB-8B97-7067BD5DCA3E}.Debug|x86.ActiveCfg = Debug|x86
+		{0ADD6E8F-8660-42BB-8B97-7067BD5DCA3E}.Debug|x86.Build.0 = Debug|x86
+		{0ADD6E8F-8660-42BB-8B97-7067BD5DCA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ADD6E8F-8660-42BB-8B97-7067BD5DCA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ADD6E8F-8660-42BB-8B97-7067BD5DCA3E}.Release|x86.ActiveCfg = Release|x86
+		{0ADD6E8F-8660-42BB-8B97-7067BD5DCA3E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {366E369A-1043-4D42-9B5D-29062FB3D2AB}
+	EndGlobalSection
+EndGlobal
