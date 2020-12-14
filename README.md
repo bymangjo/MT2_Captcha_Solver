@@ -11,6 +11,8 @@ This program has been reversed. It is not my source code. Don't ask me for a fix
 #### What are the instructions
 Run Captcha_solver.exe as an administrator. Press the start solver button. Enter bymangjo and bymangjo in the password section on username. After logging in, choose the first option. Then inject and enter the game. Then go to captcha_solver.exe. Type the extension of the inject game in Metin2 client section. Press the bypass button and come to the captcha solver, type bymangjo and bymangjo again, press enter and enjoy!
 
+- Original video link: https://youtu.be/fG4reh21-zw
+
 #### Currently tested platforms: 
 - [x] Windows 8/10 Working
 - [x] Windows 7 Unknown
