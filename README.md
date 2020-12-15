@@ -6,7 +6,7 @@
 This program has been reversed. It is not my source code. Don't ask me for a fix. We cannot change the Turkish language. You can only use it for free. Our goal is to gain experience and think about how we can code such systems.
 
 <p align="center"><img src="http://i.epvpimg.com/w5gFfab.png" /></p>
-<p align="center"><img src="http://i.epvpimg.com/I0hOdab.png" /></p>
+<p align="center"><img src="http://i.epvpimg.com/BVkWcab.png" /></p>
 
 #### What are the instructions
 Run Captcha_solver.exe as an administrator. Press the start solver button. Enter bymangjo and bymangjo in the password section on username. After logging in, choose the first option. Then inject and enter the game. Then go to captcha_solver.exe. Type the extension of the inject game in Metin2 client section. Press the bypass button and come to the captcha solver, type bymangjo and bymangjo again, press enter and enjoy!
